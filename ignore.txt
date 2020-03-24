@@ -1,4 +1,0 @@
-.ignore
-*iml
-.reqRes.iml
-.target
